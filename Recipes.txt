@@ -2,3 +2,6 @@ welcome
 
 pastha
 egg
+chicken
+
+thank y
